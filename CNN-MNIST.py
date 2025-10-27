@@ -1,5 +1,6 @@
 """
 This code designs, implements and trains a convolutional neural network (CNN) for classification on the MNIST dataset of handwritten images.
+Copied from my colab.
 """
 import torch, random, numpy as np
 # For reproducability
