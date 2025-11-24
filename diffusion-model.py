@@ -1,7 +1,7 @@
 """
 I'll design, implement, and train a diffusion model on the MNIST dataset.
 Maybe later, I'll design and train a classifier to generate class conditional samples
-using a gradient-based Markov Chain Monte Carlo method.
+using a gradient-based Markov Chain Monte Carlo method..
 """
 import torch
 import torch.nn as nn
