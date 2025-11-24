@@ -1,5 +1,5 @@
 """
-I'll design, implement, and train a diffusion model on the MNIST dataset.
+A diffusion model is designed and implemented on the MNIST dataset.
 Maybe later, I'll design and train a classifier to generate class conditional samples
 using a gradient-based Markov Chain Monte Carlo method..
 """
